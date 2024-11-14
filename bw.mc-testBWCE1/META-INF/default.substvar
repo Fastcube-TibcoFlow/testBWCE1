@@ -234,5 +234,29 @@
 			<type>String</type>
 			<isOverride>false</isOverride>
 			<useLookupValue>false</useLookupValue>
+		</globalVariable><globalVariable>
+			<name>/Services/MC-testBWCE1/MCI/testSOAP-esb-in/flowCode</name>
+			<value>fastcube.testBWCE1.testSOAP</value>
+			<deploymentSettable>false</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<isOverride>false</isOverride>
+			<useLookupValue>false</useLookupValue>
+		</globalVariable><globalVariable>
+			<name>/Services/MC-testBWCE1/MCI/testSOAP-esb-in/taskCode</name>
+			<value>MCS-SOAP_o</value>
+			<deploymentSettable>false</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<isOverride>false</isOverride>
+			<useLookupValue>false</useLookupValue>
+		</globalVariable><globalVariable>
+			<name>/Services/MC-testBWCE1/MCI/testSOAP-esb-in/serviceName</name>
+			<value>testBWCE1.testSOAP.esb-in</value>
+			<deploymentSettable>false</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<isOverride>false</isOverride>
+			<useLookupValue>false</useLookupValue>
 		</globalVariable></globalVariables>
 </repository>
